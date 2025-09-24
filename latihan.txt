@@ -7,6 +7,7 @@ Kegiatan:
 6. Membuat branch langsung pada repository
 7. Melakukan pull request sesi-2 ke main branch
 
+teks ini dari akun VerynnaPutri
 Teks dari Merista
 Halo saya Icha
 8. Melakukan pull request najla
