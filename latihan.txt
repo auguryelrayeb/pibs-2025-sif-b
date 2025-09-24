@@ -6,6 +6,6 @@ Kegiatan:
 5. Membuat branch langsung saat commit
 6. Membuat branch langsung pada repository
 7. Melakukan pull request sesi-2 ke main branch
-
+8. Melakukan pull request najla
 Teks ini dari rinchis
 Teks ini dari akun guryputu
